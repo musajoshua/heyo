@@ -16,8 +16,8 @@ It can also be ran on a live device.
 Clone the repo and run 'npm install' to install required packages.
 
 ```javascript
-git clone https://github.com/musatech/sammy
-cd sammy
+git clone https://github.com/musatech/heyo
+cd heyo
 npm install
 ```
 Next run 'npm start' to start the project.
@@ -31,8 +31,8 @@ If you want to run the application on a live device, you would need to download 
 
 ## Screenshots
 
-![alt text](https://github.com/musatech/sammy/blob/master/IMG_2098.PNG)
-![alt text](https://github.com/musatech/sammy/blob/master/IMG_2099.PNG)
+![alt text](https://github.com/musatech/heyo/blob/master/IMG_2098.PNG)
+![alt text](https://github.com/musatech/heyo/blob/master/IMG_2099.PNG)
 
 ## Authors
 
